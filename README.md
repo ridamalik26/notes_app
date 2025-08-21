@@ -1,16 +1,11 @@
 # notes_app
 
-A new Flutter project.
-
+this is my first flutter project.
+it is beginner friendly
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+screenshot 1 home screen: " C:\projects\Flutter_projects\notes_app\images\home.jpg "
+screenshot 2 added screen: " C:\projects\Flutter_projects\notes_app\images\added.jpg " 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
